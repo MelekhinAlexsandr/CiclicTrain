@@ -1,0 +1,17 @@
+C:\Users\hacke\source\repos\train\train\obj\Debug\net6.0-windows\train.csproj.AssemblyReference.cache
+C:\Users\hacke\source\repos\train\train\obj\Debug\net6.0-windows\train.Form1.resources
+C:\Users\hacke\source\repos\train\train\obj\Debug\net6.0-windows\train.csproj.GenerateResource.cache
+C:\Users\hacke\source\repos\train\train\obj\Debug\net6.0-windows\train.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hacke\source\repos\train\train\obj\Debug\net6.0-windows\train.AssemblyInfoInputs.cache
+C:\Users\hacke\source\repos\train\train\obj\Debug\net6.0-windows\train.AssemblyInfo.cs
+C:\Users\hacke\source\repos\train\train\obj\Debug\net6.0-windows\train.csproj.CoreCompileInputs.cache
+C:\Users\hacke\source\repos\train\train\bin\Debug\net6.0-windows\train.exe
+C:\Users\hacke\source\repos\train\train\bin\Debug\net6.0-windows\train.deps.json
+C:\Users\hacke\source\repos\train\train\bin\Debug\net6.0-windows\train.runtimeconfig.json
+C:\Users\hacke\source\repos\train\train\bin\Debug\net6.0-windows\train.dll
+C:\Users\hacke\source\repos\train\train\bin\Debug\net6.0-windows\ref\train.dll
+C:\Users\hacke\source\repos\train\train\bin\Debug\net6.0-windows\train.pdb
+C:\Users\hacke\source\repos\train\train\obj\Debug\net6.0-windows\train.dll
+C:\Users\hacke\source\repos\train\train\obj\Debug\net6.0-windows\ref\train.dll
+C:\Users\hacke\source\repos\train\train\obj\Debug\net6.0-windows\train.pdb
+C:\Users\hacke\source\repos\train\train\obj\Debug\net6.0-windows\train.genruntimeconfig.cache
